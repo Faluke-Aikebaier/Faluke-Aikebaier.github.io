@@ -27,7 +27,7 @@ tel_full: tel:+358 417031671
 #google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
   street: Rikhard Nymanin tie 3 A 11
-  #postcode: 00370
+  postcode: '00370'
   city: Helsinki
   country: Finland
 #google_analytics: UA-69300817-1
